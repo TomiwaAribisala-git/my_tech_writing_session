@@ -42,29 +42,29 @@ Tech (writing) editing is a collboarative process with authors, who are subject 
 the correctness of aspects such as specialized terminology, matchups between textual and visual elements, 
 as well as more traditional aspects of writing. 
 - Procedures of Tech Editing:
-    a. Consistency and Correctness: spelling, punctuation, grammar, word use, page numbering, color consistency.
-    b. Visual Readability: sizes, tables, captions, graphic elements locations, lists, document layout.
-    c. Content and Structure: sentence structures, logical flaws, image appropriateness, navigability,
+    1. Consistency and Correctness: spelling, punctuation, grammar, word use, page numbering, color consistency.
+    2. Visual Readability: sizes, tables, captions, graphic elements locations, lists, document layout.
+    3. Content and Structure: sentence structures, logical flaws, image appropriateness, navigability,
     working hyperlinks, section breaks, order of contents, overall meaning. 
 - Editing Resources/Parameters:
-    a. Style Guides: an exisiting, authoritative source that lays out rules for the materials you are 
+    1. Style Guides: an exisiting, authoritative source that lays out rules for the materials you are 
     editing e.g. an handbook; always be prepared to justify your edits with a style guide reference. 
-    b. Style Sheets: small-scale, local style guides that provide consistent quick-reference answers
+    2. Style Sheets: small-scale, local style guides that provide consistent quick-reference answers
     to common errors/problems. 
-    c. Headings: use plenty of headings, perhaps one heading for every two or three paragraphs.
-    d. Lists: numbered lists to show sequence, order or hierarchy, bulleted list can appear in any order. 
-    e. Notices: specially formattated chunks of text that alert readers to special points, exceptions, 
+    3. Headings: use plenty of headings, perhaps one heading for every two or three paragraphs.
+    4. Lists: numbered lists to show sequence, order or hierarchy, bulleted list can appear in any order. 
+    5. Notices: specially formattated chunks of text that alert readers to special points, exceptions, 
     potential problems, or danger. 
-    f. Figures: illustrations, drawings, schematics, photos and other visual elements. 
-    g. Tables: look for repeating pairs, triples or quadruplets of item that can be formatted as tables;
+    6. Figures: illustrations, drawings, schematics, photos and other visual elements. 
+    7. Tables: look for repeating pairs, triples or quadruplets of item that can be formatted as tables;
     a series of terms and definitions is an example for tables.
-    h. Highlighting: bold text, italics, alternate fonts, quotation marks, capital letters and other 
+    8. Highlighting: bold text, italics, alternate fonts, quotation marks, capital letters and other 
     typographical tricks. 
-    i. Margins, Indentation and Alignment. 
-    j. Fonts and Color: limit the no. of fonts that appear in a document to two(headings/body text), 
+    9. Margins, Indentation and Alignment. 
+    10. Fonts and Color: limit the no. of fonts that appear in a document to two(headings/body text), 
     consider compability of background color, text color, heading color, figures color and table titles
     color; mostly stick with black text on a white background. 
-    k. Genres and Conventions: all genres of writing adhere to certain conventions, in terms of content,
+    11. Genres and Conventions: all genres of writing adhere to certain conventions, in terms of content,
     the style of language used to express the content, and how the content is presented visually. An example is am online news article, you will often notice consistent formatting features; replicate that for your 
     tech writing and make sure it conforms to the expectations of the genre and audience, and that most 
     importantly convey the message you want to send. 
